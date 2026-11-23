@@ -1,0 +1,1 @@
+-- Sample data. Invented names only, never real clients (CLAUDE.md §8).
